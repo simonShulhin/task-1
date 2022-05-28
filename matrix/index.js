@@ -16,3 +16,5 @@ function grid(size) {
 // console.log(grid(-3));
 // console.log(grid(2));
 // console.log(grid(3.5));
+
+// Спробуй виконати grid(14) і зрозумій в чому помилка
